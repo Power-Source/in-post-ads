@@ -1,0 +1,682 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PS BeitragsAds\n"
+"POT-Creation-Date: 2023-03-16 12:52+0100\n"
+"PO-Revision-Date: 2023-03-16 12:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: custom-ads.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: custom-ads.php:57
+msgid ""
+"Es gab ein Problem beim Bestimmen, wo das Plugin \"PS BeitragsAds\" installiert "
+"ist. Bitte erneut installieren."
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:23
+msgid "Ja"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:26
+msgid "Nein"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:59
+msgid ""
+"Wenn Du diese Option deaktivierst, werden Deine Anzeigen nur angemeldeten "
+"Nutzern angezeigt"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:60
+msgid "Schalte dies NICHT ein, bis Du bereit bist, live zu gehen"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:65
+msgid "So viele Anzeigen werden pro Beitragsseite geschaltet"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:70
+msgid "Zufällig"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:71 lib/class_wdca_admin_pages.php:145
+msgid "Titel"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:72 lib/class_wdca_admin_pages.php:146
+msgid "Datum"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:73
+msgid "Bearbeitet"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:95
+msgid "Deine Anzeigen werden so bestellt, wie Du sie hier eingerichtet hast"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:100
+msgid ""
+"Deine erste Anzeige wird nach so vielen Absätzen in den Beitrag eingefügt."
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:104
+msgid ""
+"Deine nachfolgenden Anzeigen werden alle [Anzahl] Absätze in den Beitrag "
+"eingefügt."
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:111
+msgid "sofort"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:115
+#, php-format
+msgid "%d Tage"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:116
+#, php-format
+msgid "%d Tag"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:121
+#, php-format
+msgid "Meine Anzeigen %s anzeigen, nachdem der Beitrag veröffentlicht wurde"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:122
+msgid ""
+"Verwende diese Option, um die automatische Anzeigeninjektion für einen "
+"ausgewählten Zeitraum zu verzögern."
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:127
+msgid "Vor dem ersten Absatz:"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:130
+msgid ""
+"Wenn Du diese Option aktivierst, wird Deine erste Anzeige ganz am Anfang des "
+"Beitrags eingefügt"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:133
+msgid "Auf halbem Weg durch den Beitrag:"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:136
+msgid ""
+"Durch Aktivieren dieser Option wird eine Anzeige in der Mitte des Beitrags "
+"eingefügt"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:139
+msgid "Nach dem letzten Absatz:"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:142
+msgid ""
+"Wenn Du diese Option aktivierst, wird die erste Anzeige ganz am Ende des "
+"Beitrags eingefügt"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:148
+msgid "Ignoriere andere Einfügungseinstellungen:"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:151
+msgid ""
+"Wenn Du diese Option aktivierst, werden andere infügungseinstellungen "
+"ignoriert und Ihre Anzeigen werden nur mit den ausgewählten vordefinierten "
+"Einstellungen eingefügt"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:152
+#, php-format
+msgid "... aber nur für Beiträge, die länger als %s Absätze sind"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:153
+msgid ""
+"Wenn Beiträge kürzer als die hier eingegebene Anzahl von Absätzen sind, hat "
+"das Standardverhalten Vorrang vor der vordefinierten Positionsinjektion."
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:154
+msgid "Lasse den Wert auf <code>0</code> um dieses Verhalten zu deaktivieren."
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:160
+#: lib/class_wdca_admin_pages.php:150
+msgid "Standard"
+msgstr ""
+
+#. Author of the plugin/theme
+#: lib/class_wdca_admin_form_renderer.php:161
+msgid "PSOURCE"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:162
+msgid "Dunkel"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:163
+msgid "Gepunktet"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:164
+msgid "Grüner Knopf"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:165
+msgid "PSOURCE 2018"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:166
+msgid "Papier (nur moderne Browser)"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:180
+msgid "Headertext"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:180
+msgid "Dieser Text wird in der Anzeigenüberschrift vor dem Link angezeigt"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:181
+msgid "Footertext"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:181
+msgid "Dieser Text wird unter dem Anzeigeninhalt vor dem Link angezeigt"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:182
+msgid "Footerlinktext"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:182
+msgid "Dieser Text wird als Linktext in der Fußzeile angezeigt"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:188
+msgid "Wird im aktuellen Fenster/Tab geöffnet"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:192
+msgid "Öffnet in neuem Fenster/Tab"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:198
+msgid ""
+"<b>Hinweis:</b> Deine Seite muss bereits für das Google Analytics-Tracking "
+"eingerichtet sein, damit dies ordnungsgemäß funktioniert."
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:227
+msgid ""
+"Wenn Du Probleme mit Deinem Theme hast, kannst Du den Standard-Selektor auf "
+"einen allgemeineren ändern - z.B. <code>p</code>"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:228
+msgid ""
+"Du kannst dieses Feld auch verwenden, um das Einfügen von Anzeigen nach "
+"anderen Elementen zu ermöglichen - z.B. <code>ul,ol,p</code>"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:249
+msgid ""
+"Das Plugin fügt standardmäßig automatisch Anzeigen in Deine Beiträge ein. "
+"Wähle hier weitere Beitragstypen aus."
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:252
+msgid "Nicht automatisch in Beiträge injizieren:"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:256
+msgid ""
+"Diese Einstellungen gelten nur für das automatische Einfügen. Du kannst die "
+"Anzeigen weiterhin mithilfe von Shortcodes einfügen."
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:261
+msgid ""
+"Durch Aktivieren dieser Option wird der Beitrags-Editor-Oberfläche eine "
+"Metabox hinzugefügt, mit der Du das Einfügen von Anzeigen pro Beitrag "
+"verhindern kannst."
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:289
+msgid "Meine Beiträge in dieser Kategorie"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:289
+#: lib/class_wdca_admin_form_renderer.php:341
+msgid "zeigt nur Anzeigen aus diesen Anzeigenkategorien an"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:293
+#: lib/class_wdca_admin_form_renderer.php:345
+msgid ""
+"Wenn Du hier keine Zuordnungen festlegst, kann jede Anzeige in einem der "
+"Beiträge erscheinen."
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:341
+msgid "Meine Beiträge in diesem Tag"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:369
+msgid "Aktiviere das verzögerte Laden von Abhängigkeiten:"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:372
+msgid ""
+"Das verzögerte Laden von Abhängigkeiten kann die Ladezeiten Deiner Seite "
+"verbessern, indem Ressourcen nach Bedarf benötigt werden."
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:378
+msgid "Verzögertes Laden Hook <small>(fortgeschritten)</small>:"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:380
+msgid ""
+"Das verzögerte Laden von Abhängigkeiten hängt vom Fußzeilenhook ab, um "
+"ordnungsgemäß bereitgestellt zu werden. Wenn Dein Design den Standard-Hook "
+"nicht implementiert, verwende dieses Feld, um einen benutzerdefinierten "
+"festzulegen."
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:383
+msgid "Stileinschlussart"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:384
+msgid "Normal"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:385
+msgid "Inline"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:386
+msgid "Dynamisch"
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:393
+msgid ""
+"Hier kannst Du Deine A/B-Tests einrichten und die Laderegeln für Gruppen "
+"einstellen."
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:400
+msgid ""
+"Standardmäßig ist die Verteilung im A/B-Modus zufällig. Durch Aktivieren "
+"dieser Option wird der ursprünglich ausgewählte Modus für Deine Benutzer "
+"erzwungen, damit sie über Anforderungen hinweg bestehen bleiben (d. H. "
+"Benutzer, die Einstellungen für den A-Modus erhalten haben, werden diese "
+"weiterhin sehen und umgekehrt)."
+msgstr ""
+
+#: lib/class_wdca_admin_form_renderer.php:415
+msgid ""
+"Wenn der A/B-Test aktiviert ist und Du diese Option zulässt, kannst Du jede "
+"Gruppe bedingungslos testen, indem Du dies an die URL übergibst: <code>?"
+"wdca_mode=a</code> für A Gruppen Einstellungen, <code>?wdca_mode=b</code> "
+"für B Gruppen Einstellungen."
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:45 lib/class_wdca_admin_pages.php:120
+msgid "Einstellungen"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:47 lib/class_wdca_admin_pages.php:122
+msgid "Einstellungen (A)"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:48 lib/class_wdca_admin_pages.php:123
+msgid "Einstellungen (B)"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:50 lib/class_wdca_admin_pages.php:113
+msgid "A/B Einstellungen"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:59
+msgid "A/B Modus Einrichtung"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:60
+msgid "Aktiviere A/B Test"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:61
+msgid "Track-Modus in Sessions"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:62
+msgid "Zeige Admins immer die B-Gruppe"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:63
+msgid "Zeige allen Benutzern immer die Gruppe B an"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:64
+msgid "GET key override"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:78
+msgid "Benutzerdefinierte Anzeigen"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:79
+msgid "Aktiviere Benutzerdefinierte Anzeigen"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:80
+msgid "Live Modus"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:81
+msgid "Zeige so viele Anzeigen"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:82
+msgid "Ordne Anzeigen nach"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:83
+msgid "Füge nach so vielen Absätzen die erste Anzeige ein"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:84
+msgid "Füge nach so vielen Absätzen jeweils nachfolgende Anzeigen ein"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:85
+msgid "Verzögertes Einfügen von Anzeigen"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:86
+msgid "Vordefinierte Positionen"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:89
+msgid "Aussehen &amp; Mitteilungen"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:90
+msgid "Theme"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:91
+msgid "Mitteilungen"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:92
+msgid "Linkklick"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:94
+msgid "Google Analytics Integration"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:95
+msgid "Aktiviere Google Analytics integration"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:96
+msgid "Ereigniskategorie"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:97
+msgid "Ereignislabel"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:100
+msgid "Erweitert"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:101
+msgid "Benutzerdefinierte Beitragstypen Anzeigen"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:102
+msgid "Beitrag Metabox anzeigen"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:103
+msgid "Verknüpfe Beitragskategorien"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:104
+msgid "Verknüpfe Beitrags-Tags"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:105
+msgid "Elementauswahl"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:106
+msgid "Verzögertes Laden"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:144
+msgid "Anzeige einfügen"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:147
+msgid "Aussehen"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:148
+msgid "Füge einen leeren Platzhalter für eine Anzeige ein"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:149
+msgid "oder wähle eine Anzeige zum Einfügen aus den unten aufgeführten aus"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:151
+msgid "Größe"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:152
+msgid "Klein"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:153
+msgid "Mittel"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:154
+msgid "Groß"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:155
+msgid "Position"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:156
+msgid "Links"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:157
+msgid "Rechts"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:167 lib/class_wdca_custom_ad.php:54
+msgid "Beitragsanzeigen"
+msgstr ""
+
+#: lib/class_wdca_admin_pages.php:185
+msgid "Beitragsanzeigen in diesem Beitrag nicht anzeigen"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:55
+msgid "Beitragsanzeige"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:56
+msgid "Neue Beitragsanzeige"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:57
+msgid "Bearbeite Beitragsanzeige"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:79
+msgid "Anzeigenkategorie"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:80
+msgid "Anzeigekategorie"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:81
+msgid "Erstelle Anzeigekategorie"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:82
+msgid "Bearbeite Anzeigenkategorie"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:83
+msgid "Anzeigenkategorien durchsuchen"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:84
+msgid "Beliebte Anzeigenkategorien"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:85
+msgid "Alle Anzeigenkategorien"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:86
+msgid "Anzeigenkategorien durch Kommas trennen"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:87
+msgid "Anzeigenkategorien hinzufügen oder entfernen"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:88
+msgid "Häufig verwendete Anzeigekategorien"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:100
+msgid "Anzeigenkategorien"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:113
+msgid "Anzeigenlink"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:121
+msgid "Anzeigendarstellung"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:132
+msgid "Link URL"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:146
+msgid "Titel nicht anzeigen"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:151
+msgid "Inhalt nicht anzeigen"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:156
+msgid "Footer nicht anzeigen"
+msgstr ""
+
+#: lib/class_wdca_custom_ad.php:161
+msgid "Standardstil entfernen"
+msgstr ""
+
+#: lib/forms/plugin_settings.php:9
+msgid "Änderungen speichern"
+msgstr ""
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:56
+msgid "View details"
+msgstr ""
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:79
+#, php-format
+msgid "Weitere Informationen zu %s"
+msgstr ""
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:130
+msgid "Auf neuere Version prüfen"
+msgstr ""
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Keine neuere Version von %s im PSOURCE REPO gefunden."
+msgstr ""
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:219
+#, php-format
+msgctxt "the plugin title"
+msgid "Im PSOURCE REPO ist eine <b>neuere Version von %s</b> verfügbar!."
+msgstr ""
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:221
+#, php-format
+msgctxt "the plugin title"
+msgid ""
+"Entschuldige, es konnte nicht festgestellt werden, ob Updates für %s "
+"verfügbar sind."
+msgstr ""
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:227
+#, php-format
+msgid "Unbekannter PSOURCE-UPDATTER-Status \"%s\""
+msgstr ""
+
+#: psource/psource-plugin-update/Puc/v5p0/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PS BeitragsAds"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://n3rds.work/cp_psource/ps-beitragsads-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Definiere benutzerdefinierte Werbeanzeigen für Beitragstypen und mehr, das "
+"einfachste Werkzeug um effektiv Werbeanzeigen zu schalten."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://n3rds.work"
+msgstr ""

@@ -1,0 +1,815 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PS BeitragsAds\n"
+"POT-Creation-Date: 2025-05-14 14:40+0200\n"
+"PO-Revision-Date: 2025-05-14 14:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: custom-ads.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: psource/psource-plugin-update/vendor\n"
+
+#: custom-ads.php:69
+#, fuzzy
+msgid ""
+"Es gab ein Problem beim Bestimmen, wo das Plugin \"PS BeitragsAds\" "
+"installiert ist. Bitte erneut installieren."
+msgstr ""
+"Es gab ein Problem beim Bestimmen, wo das Plugin \"PS BeitragsAds\" "
+"installiert ist. Bitte erneut installieren."
+
+#: lib/class_wdca_admin_form_renderer.php:23
+msgid "Yes"
+msgstr "Ja"
+
+#: lib/class_wdca_admin_form_renderer.php:26
+msgid "No"
+msgstr "Nein"
+
+#: lib/class_wdca_admin_form_renderer.php:59
+#, fuzzy
+msgid "Disabling this will only show your ads to logged in users"
+msgstr ""
+"Wenn du diese Option deaktivierst, wird deine Werbung nur eingeloggten "
+"Nutzern angezeigt"
+
+#: lib/class_wdca_admin_form_renderer.php:60
+#, fuzzy
+msgid "Do NOT turn this on until you are ready to go live"
+msgstr "Schalte dies NICHT ein, bis du bereit bist, live zu gehen"
+
+#: lib/class_wdca_admin_form_renderer.php:65
+#, fuzzy
+msgid "This many Ads will be shown per post page"
+msgstr "So viele Anzeigen werden pro Beitragsseite angezeigt"
+
+#: lib/class_wdca_admin_form_renderer.php:70
+msgid "Random"
+msgstr "Zufällig"
+
+#: lib/class_wdca_admin_form_renderer.php:71 lib/class_wdca_admin_pages.php:142
+msgid "Title"
+msgstr "Titel"
+
+#: lib/class_wdca_admin_form_renderer.php:72 lib/class_wdca_admin_pages.php:143
+msgid "Date"
+msgstr "Datum"
+
+#: lib/class_wdca_admin_form_renderer.php:73
+msgid "Modified"
+msgstr "Geändert"
+
+#: lib/class_wdca_admin_form_renderer.php:95
+#, fuzzy
+msgid "Your Ads will be ordered in the way you set up here"
+msgstr "Deine Anzeigen werden so angeordnet, wie du es hier eingestellt hast"
+
+#: lib/class_wdca_admin_form_renderer.php:100
+#, fuzzy
+msgid "Your first Ad will be injected in your post after this many paragraphs."
+msgstr ""
+"Deine erste Anzeige wird nach so vielen Absätzen in deinem Beitrag eingefügt."
+
+#: lib/class_wdca_admin_form_renderer.php:104
+#, fuzzy
+msgid ""
+"Your subsequent Ads will be injected in your post every [number] of "
+"paragraphs."
+msgstr ""
+"Deine nachfolgenden Anzeigen werden alle [Anzahl] Absätze in deinem Beitrag "
+"eingeblendet."
+
+#: lib/class_wdca_admin_form_renderer.php:111
+msgid "immediately"
+msgstr "sofort"
+
+#: lib/class_wdca_admin_form_renderer.php:115
+#, php-format
+msgid "%d days"
+msgstr "%d Tage"
+
+#: lib/class_wdca_admin_form_renderer.php:116
+#, php-format
+msgid "%d day"
+msgstr "%d Tag"
+
+#: lib/class_wdca_admin_form_renderer.php:121
+#, fuzzy, php-format
+msgid "Show my Ads %s after the post gets published"
+msgstr "Meine Anzeigen %s anzeigen, nachdem der Beitrag veröffentlicht wurde"
+
+#: lib/class_wdca_admin_form_renderer.php:122
+#, fuzzy
+msgid ""
+"Use this option to delay automatic Ads injection for a selected time period."
+msgstr ""
+"Mit dieser Option kannst du die automatische Ads-Injektion für eine "
+"bestimmte Zeitspanne verzögern."
+
+#: lib/class_wdca_admin_form_renderer.php:127
+#, fuzzy
+msgid "Before first paragraph:"
+msgstr "Vor dem ersten Absatz:"
+
+#: lib/class_wdca_admin_form_renderer.php:130
+#, fuzzy
+msgid ""
+"Enabling this option will insert your first Ad at the very begining of your "
+"post"
+msgstr ""
+"Wenn du diese Option aktivierst, wird deine erste Anzeige ganz am Anfang "
+"deines Beitrags eingefügt"
+
+#: lib/class_wdca_admin_form_renderer.php:133
+#, fuzzy
+msgid "Halway through your post:"
+msgstr "Auf halbem Weg durch deinen Beitrag:"
+
+#: lib/class_wdca_admin_form_renderer.php:136
+#, fuzzy
+msgid "Enabling this option will insert an Ad halway through your post"
+msgstr ""
+"Wenn du diese Option aktivierst, wird in der Mitte deines Beitrags eine "
+"Anzeige eingefügt"
+
+#: lib/class_wdca_admin_form_renderer.php:139
+#, fuzzy
+msgid "After last paragraph:"
+msgstr "Nach dem letzten Absatz:"
+
+#: lib/class_wdca_admin_form_renderer.php:142
+#, fuzzy
+msgid ""
+"Enabling this option will insert your first Ad at the very end of your post"
+msgstr ""
+"Wenn du diese Option aktivierst, wird deine erste Anzeige ganz am Ende "
+"deines Beitrags eingefügt"
+
+#: lib/class_wdca_admin_form_renderer.php:148
+#, fuzzy
+msgid "Ignore other injection settings:"
+msgstr "Ignoriere andere Injektionseinstellungen:"
+
+#: lib/class_wdca_admin_form_renderer.php:151
+#, fuzzy
+msgid ""
+"Enabling this option will ignore other injection settings and insert your "
+"Ads at the selected predefined settings only"
+msgstr ""
+"Wenn du diese Option aktivierst, werden andere Injektionseinstellungen "
+"ignoriert und deine Anzeigen nur mit den ausgewählten vordefinierten "
+"Einstellungen eingefügt"
+
+#: lib/class_wdca_admin_form_renderer.php:152
+#, fuzzy, php-format
+msgid "... but only on posts longer than %s paragraphs"
+msgstr "... aber nur bei Beiträgen, die länger als %s Absätze sind"
+
+#: lib/class_wdca_admin_form_renderer.php:153
+#, fuzzy
+msgid ""
+"If your posts are shorter than the number of paragraphs entered here, the "
+"default behavior will take precedence over the predefined positions "
+"injection."
+msgstr ""
+"Wenn deine Beiträge kürzer sind als die hier eingegebene Anzahl von "
+"Absätzen, hat das Standardverhalten Vorrang vor der vordefinierten "
+"Positionsinjektion."
+
+#: lib/class_wdca_admin_form_renderer.php:154
+#, fuzzy
+msgid "Leave the value at <code>0</code> to disable this behavior."
+msgstr "Lass den Wert auf <code>0</code>, um dieses Verhalten zu deaktivieren."
+
+#: lib/class_wdca_admin_form_renderer.php:160
+#: lib/class_wdca_admin_pages.php:147
+msgid "Default"
+msgstr "Standard"
+
+#: lib/class_wdca_admin_form_renderer.php:161
+#, fuzzy
+msgid "WPMU.org"
+msgstr "WPMU.org"
+
+#: lib/class_wdca_admin_form_renderer.php:162
+msgid "Dark"
+msgstr "Dunkel"
+
+#: lib/class_wdca_admin_form_renderer.php:163
+msgid "Dotted"
+msgstr "Gepunktet"
+
+#: lib/class_wdca_admin_form_renderer.php:164
+msgid "Green Button"
+msgstr "Schaltfläche „Grün“"
+
+#: lib/class_wdca_admin_form_renderer.php:165
+#, fuzzy
+msgid "wpmu.org 2013"
+msgstr "wpmu.org 2013"
+
+#: lib/class_wdca_admin_form_renderer.php:166
+msgid "Paper (modern browsers only)"
+msgstr "Papier (nur moderne Browsern)"
+
+#: lib/class_wdca_admin_form_renderer.php:180
+msgid "Header text"
+msgstr "Kopfzeilen Text"
+
+#: lib/class_wdca_admin_form_renderer.php:180
+#, fuzzy
+msgid "This text will appear in your Ad header, before the link"
+msgstr "Dieser Text erscheint in der Kopfzeile deiner Anzeige, vor dem Link"
+
+#: lib/class_wdca_admin_form_renderer.php:181
+msgid "Footer text"
+msgstr "Fußzeilen Text"
+
+#: lib/class_wdca_admin_form_renderer.php:181
+#, fuzzy
+msgid "This text will appear below your Ad content, before the link"
+msgstr "Dieser Text erscheint unter dem Inhalt deiner Anzeige, vor dem Link"
+
+#: lib/class_wdca_admin_form_renderer.php:182
+#, fuzzy
+msgid "Footer link text"
+msgstr "Fußzeilen-Linktext"
+
+#: lib/class_wdca_admin_form_renderer.php:182
+#, fuzzy
+msgid "This text will appear as link text in your footer"
+msgstr "Dieser Text wird als Linktext in deiner Fußzeile erscheinen"
+
+#: lib/class_wdca_admin_form_renderer.php:188
+#, fuzzy
+msgid "Opens in current window/tab"
+msgstr "Öffnet im aktuellen Fenster/Tab"
+
+#: lib/class_wdca_admin_form_renderer.php:192
+#, fuzzy
+msgid "Opens in new window/tab"
+msgstr "Öffnet in neuem Fenster/Tab"
+
+#: lib/class_wdca_admin_form_renderer.php:198
+#, fuzzy
+msgid ""
+"<b>Note:</b> your pages need to already be set up for Google Analytics "
+"tracking for this to work properly."
+msgstr ""
+"<b>Hinweis:</b> Deine Seiten müssen bereits für das Google Analytics-"
+"Tracking eingerichtet sein, damit dies richtig funktioniert."
+
+#: lib/class_wdca_admin_form_renderer.php:227
+#, fuzzy
+msgid ""
+"If you are experiencing problems with your theme, you may want to change the "
+"default selector to something more generic - e.g. <code>p</code>"
+msgstr ""
+"Wenn du Probleme mit deinem Theme hast, solltest du den Standard-Selektor in "
+"etwas Allgemeineres ändern - z. B. <code>p</code>"
+
+#: lib/class_wdca_admin_form_renderer.php:228
+#, fuzzy
+msgid ""
+"You can also use this box to allow Ad inserting after other elements too - e."
+"g. <code>ul,ol,p</code>"
+msgstr ""
+"Du kannst dieses Feld auch verwenden, um das Einfügen von Anzeigen nach "
+"anderen Elementen zu ermöglichen - z.B. <code>ul,ol,p</code>"
+
+#: lib/class_wdca_admin_form_renderer.php:249
+#, fuzzy
+msgid ""
+"The plugin will auto-insert Ads into your Posts by default. Select "
+"additional post types here."
+msgstr ""
+"Das Plugin fügt standardmäßig automatisch Anzeigen in deine Posts ein. Wähle "
+"hier zusätzliche Beitragstypen aus."
+
+#: lib/class_wdca_admin_form_renderer.php:252
+#, fuzzy
+msgid "Do not auto-inject into posts:"
+msgstr "Nicht automatisch in Beiträge einfügen:"
+
+#: lib/class_wdca_admin_form_renderer.php:256
+#, fuzzy
+msgid ""
+"These settings apply to auto-insertion only - you will still be able to "
+"insert the Ads using shortcodes."
+msgstr ""
+"Diese Einstellungen gelten nur für die automatische Einfügung - du kannst "
+"die Anzeigen weiterhin mit Shortcodes einfügen."
+
+#: lib/class_wdca_admin_form_renderer.php:261
+#, fuzzy
+msgid ""
+"Enabling this option will add a metabox to your post editor interface, which "
+"you can use to prevent Ad insertion per post."
+msgstr ""
+"Wenn du diese Option aktivierst, wird deinem Beitragseditor eine Metabox "
+"hinzugefügt, mit der du das Einfügen von Anzeigen pro Beitrag verhindern "
+"kannst."
+
+#: lib/class_wdca_admin_form_renderer.php:289
+#, fuzzy
+msgid "My posts within this Category"
+msgstr "Meine Beiträge in dieser Kategorie"
+
+#: lib/class_wdca_admin_form_renderer.php:289
+#: lib/class_wdca_admin_form_renderer.php:341
+#, fuzzy
+msgid "will only show Ads from these Ad Categories"
+msgstr "zeigt nur Anzeigen aus diesen Anzeigenkategorien"
+
+#: lib/class_wdca_admin_form_renderer.php:293
+#: lib/class_wdca_admin_form_renderer.php:345
+#, fuzzy
+msgid ""
+"If you do not set any mappings here, any Ad could appear in any of your "
+"posts."
+msgstr ""
+"Wenn du hier keine Zuordnungen vornimmst, kann jede Anzeige in jedem deiner "
+"Beiträge erscheinen."
+
+#: lib/class_wdca_admin_form_renderer.php:341
+#, fuzzy
+msgid "My posts within this Tag"
+msgstr "Meine Beiträge innerhalb dieses Tags"
+
+#: lib/class_wdca_admin_form_renderer.php:369
+#, fuzzy
+msgid "Enable lazy dependency loading:"
+msgstr "Aktiviere das faule Laden von Abhängigkeiten:"
+
+#: lib/class_wdca_admin_form_renderer.php:372
+#, fuzzy
+msgid ""
+"Lazy dependency loading can improve your site load times by requiring "
+"resources as they are needed."
+msgstr ""
+"Lazy Dependency Loading kann die Ladezeiten deiner Website verbessern, indem "
+"Ressourcen erst dann angefordert werden, wenn sie benötigt werden."
+
+#: lib/class_wdca_admin_form_renderer.php:378
+#, fuzzy
+msgid "Lazy loading hook <small>(advanced)</small>:"
+msgstr "Fauler Ladehaken <small>(fortgeschritten)</small>:"
+
+#: lib/class_wdca_admin_form_renderer.php:380
+#, fuzzy
+msgid ""
+"Lazy dependency loading relies on footer hook to deploy properly. If your "
+"theme does not implement the default hook, use this field to set your custom "
+"one."
+msgstr ""
+"Lazy Dependency Loading ist auf den Footer Hook angewiesen, um richtig "
+"eingesetzt zu werden. Wenn dein Theme den Standardhaken nicht implementiert, "
+"kannst du in diesem Feld einen eigenen Haken setzen."
+
+#: lib/class_wdca_admin_form_renderer.php:383
+#, fuzzy
+msgid "Style inclusion type"
+msgstr "Stil Einschlussart"
+
+#: lib/class_wdca_admin_form_renderer.php:384
+msgid "Normal"
+msgstr "Normal"
+
+#: lib/class_wdca_admin_form_renderer.php:385
+msgid "Inline"
+msgstr "Inline"
+
+#: lib/class_wdca_admin_form_renderer.php:386
+msgid "Dynamic"
+msgstr "Dynamisch"
+
+#: lib/class_wdca_admin_form_renderer.php:393
+#, fuzzy
+msgid ""
+"This is where you can set up your A/B testing, and settings group loading "
+"rules."
+msgstr ""
+"Hier kannst du deine A/B-Tests und die Regeln für das Laden von "
+"Einstellungsgruppen einrichten."
+
+#: lib/class_wdca_admin_form_renderer.php:400
+#, fuzzy
+msgid ""
+"By default, A/B mode distribution is random. Enabling this option will "
+"enforce initially selected mode for your users to persist accross requests "
+"(i.e. users that got A mode settings will keep seeing them, and vice versa)."
+msgstr ""
+"Standardmäßig ist die Verteilung des A/B-Modus zufällig. Wenn du diese "
+"Option aktivierst, wird der ursprünglich gewählte Modus für deine Nutzer/"
+"innen über alle Anfragen hinweg beibehalten (d.h. Nutzer/innen, die den A-"
+"Modus eingestellt haben, sehen ihn weiterhin und umgekehrt)."
+
+#: lib/class_wdca_admin_form_renderer.php:415
+#, fuzzy
+msgid ""
+"If A/B testing is enabled, allowing this option will let you test each group "
+"unconditionally, by passing this to your URL: <code>?wdca_mode=a</code> for "
+"A group settings, <code>?wdca_mode=b</code> for B group settings."
+msgstr ""
+"Wenn A/B-Tests aktiviert sind, kannst du mit dieser Option jede Gruppe "
+"bedingungslos testen, indem du dies an deine URL übergibst: <code>?"
+"wdca_mode=a</code> für Einstellungen der Gruppe A, <code>?wdca_mode=b</code> "
+"für Einstellungen der Gruppe B."
+
+#: lib/class_wdca_admin_pages.php:45 lib/class_wdca_admin_pages.php:117
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: lib/class_wdca_admin_pages.php:47 lib/class_wdca_admin_pages.php:119
+#, fuzzy
+msgid "Settings (A)"
+msgstr "Einstellungen (A)"
+
+#: lib/class_wdca_admin_pages.php:48 lib/class_wdca_admin_pages.php:120
+#, fuzzy
+msgid "Settings (B)"
+msgstr "Einstellungen (B)"
+
+#: lib/class_wdca_admin_pages.php:50 lib/class_wdca_admin_pages.php:110
+#, fuzzy
+msgid "A/B Settings"
+msgstr "A/B-Einstellungen"
+
+#: lib/class_wdca_admin_pages.php:59
+#, fuzzy
+msgid "A/B mode setup"
+msgstr "A/B-Modus einrichten"
+
+#: lib/class_wdca_admin_pages.php:60
+msgid "Enable A/B testing"
+msgstr "A/B-Tests aktivieren"
+
+#: lib/class_wdca_admin_pages.php:61
+#, fuzzy
+msgid "Track mode in sessions"
+msgstr "Track-Modus in Sitzungen"
+
+#: lib/class_wdca_admin_pages.php:62
+#, fuzzy
+msgid "Always show B group to admins"
+msgstr "Gruppe B immer für Administratoren anzeigen"
+
+#: lib/class_wdca_admin_pages.php:63
+#, fuzzy
+msgid "Always show B group to all my users"
+msgstr "Allen Benutzern immer die Gruppe B anzeigen"
+
+#: lib/class_wdca_admin_pages.php:64
+#, fuzzy
+msgid "GET key override"
+msgstr "GET-Schlüssel außer Kraft setzen"
+
+#: lib/class_wdca_admin_pages.php:77
+msgid "Custom Ads"
+msgstr "Benutzerdefinierte Werbeanzeigen"
+
+#: lib/class_wdca_admin_pages.php:78
+#, fuzzy
+msgid "Enable Custom Ads"
+msgstr "Benutzerdefinierte Anzeigen aktivieren"
+
+#: lib/class_wdca_admin_pages.php:79
+msgid "Live mode"
+msgstr "Live-Modus"
+
+#: lib/class_wdca_admin_pages.php:80
+#, fuzzy
+msgid "Show this many Ads"
+msgstr "So viele Anzeigen anzeigen"
+
+#: lib/class_wdca_admin_pages.php:81
+#, fuzzy
+msgid "Order Ads by"
+msgstr "Anzeigen bestellen bei"
+
+#: lib/class_wdca_admin_pages.php:82
+#, fuzzy
+msgid "Inject first Ad after this many paragraphs"
+msgstr "Erste Anzeige nach so vielen Absätzen einfügen"
+
+#: lib/class_wdca_admin_pages.php:83
+#, fuzzy
+msgid "Inject subsequent Ads after this many paragraphs each"
+msgstr "Nachfolgende Anzeigen nach jeweils so vielen Absätzen einfügen"
+
+#: lib/class_wdca_admin_pages.php:84
+#, fuzzy
+msgid "Delayed Ads insertion"
+msgstr "Verzögertes Einsetzen von Ads"
+
+#: lib/class_wdca_admin_pages.php:85
+#, fuzzy
+msgid "Predefined positions"
+msgstr "Vordefinierte Positionen"
+
+#: lib/class_wdca_admin_pages.php:87
+#, fuzzy
+msgid "Appearance &amp; messages"
+msgstr "Erscheinungsbild &amp; Nachrichten"
+
+#: lib/class_wdca_admin_pages.php:88
+msgid "Theme"
+msgstr "Theme"
+
+#: lib/class_wdca_admin_pages.php:89
+msgid "Messages"
+msgstr "Nachrichten"
+
+#: lib/class_wdca_admin_pages.php:90
+#, fuzzy
+msgid "Link click"
+msgstr "Link klicken"
+
+#: lib/class_wdca_admin_pages.php:92
+#, fuzzy
+msgid "Google Analytics Integration"
+msgstr "Google Analytics Integration"
+
+#: lib/class_wdca_admin_pages.php:93
+#, fuzzy
+msgid "Enable Google Analytics integration"
+msgstr "Aktiviere die Google Analytics Integration"
+
+#: lib/class_wdca_admin_pages.php:94
+msgid "Event category"
+msgstr "Event Kategorie"
+
+#: lib/class_wdca_admin_pages.php:95
+msgid "Event label"
+msgstr "Ereignisbezeichnung"
+
+#: lib/class_wdca_admin_pages.php:97
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: lib/class_wdca_admin_pages.php:98
+#, fuzzy
+msgid "Custom post types Ads"
+msgstr "Benutzerdefinierte Beitragstypen Anzeigen"
+
+#: lib/class_wdca_admin_pages.php:99
+#, fuzzy
+msgid "Show post metabox"
+msgstr "Post-Metabox anzeigen"
+
+#: lib/class_wdca_admin_pages.php:100
+#, fuzzy
+msgid "Connect post categories"
+msgstr "Beitragskategorien verbinden"
+
+#: lib/class_wdca_admin_pages.php:101
+#, fuzzy
+msgid "Connect post tags"
+msgstr "Post-Tags verbinden"
+
+#: lib/class_wdca_admin_pages.php:102
+#, fuzzy
+msgid "Elements selector"
+msgstr "Elemente Selektor"
+
+#: lib/class_wdca_admin_pages.php:103
+msgid "Lazy loading"
+msgstr "Nach bedarf laden"
+
+#: lib/class_wdca_admin_pages.php:141
+#, fuzzy
+msgid "Insert Ad"
+msgstr "Anzeige einfügen"
+
+#: lib/class_wdca_admin_pages.php:144
+msgid "Appearance"
+msgstr "Aussehen"
+
+#: lib/class_wdca_admin_pages.php:145
+#, fuzzy
+msgid "Insert blank placeholder for an ad"
+msgstr "Leeren Platzhalter für eine Anzeige einfügen"
+
+#: lib/class_wdca_admin_pages.php:146
+#, fuzzy
+msgid "or select an Ad to insert from the ones listed below"
+msgstr "oder wähle eine Anzeige zum Einfügen aus der folgenden Liste"
+
+#: lib/class_wdca_admin_pages.php:148
+msgid "Size"
+msgstr "Größe"
+
+#: lib/class_wdca_admin_pages.php:149
+msgid "Small"
+msgstr "Klein"
+
+#: lib/class_wdca_admin_pages.php:150
+msgid "Medium"
+msgstr "Mittel"
+
+#: lib/class_wdca_admin_pages.php:151
+msgid "Large"
+msgstr "Groß"
+
+#: lib/class_wdca_admin_pages.php:152
+msgid "Position"
+msgstr "Position"
+
+#: lib/class_wdca_admin_pages.php:153
+msgid "Left"
+msgstr "Links"
+
+#: lib/class_wdca_admin_pages.php:154
+msgid "Right"
+msgstr "Rechts"
+
+#: lib/class_wdca_admin_pages.php:164 lib/class_wdca_custom_ad.php:54
+#, fuzzy
+msgid "In Post Ads"
+msgstr "In Post-Anzeigen"
+
+#: lib/class_wdca_admin_pages.php:182
+#, fuzzy
+msgid "Do not show In Post Ads in this post"
+msgstr "Keine In-Post-Anzeigen in diesem Beitrag anzeigen"
+
+#: lib/class_wdca_custom_ad.php:55
+#, fuzzy
+msgid "In Post Ad"
+msgstr "In Post-Anzeige"
+
+#: lib/class_wdca_custom_ad.php:56
+#, fuzzy
+msgid "Add new In Post Ad"
+msgstr "Neue In-Post-Anzeige hinzufügen"
+
+#: lib/class_wdca_custom_ad.php:57
+#, fuzzy
+msgid "Edit In Post Ad"
+msgstr "In Post Ad bearbeiten"
+
+#: lib/class_wdca_custom_ad.php:79 lib/class_wdca_custom_ad.php:100
+msgid "Ad Categories"
+msgstr "Kategorien"
+
+#: lib/class_wdca_custom_ad.php:80
+msgid "Ad Category"
+msgstr "Anzeigen Kategorie "
+
+#: lib/class_wdca_custom_ad.php:81
+#, fuzzy
+msgid "Add new Ad Category"
+msgstr "Neue Anzeigenkategorie hinzufügen"
+
+#: lib/class_wdca_custom_ad.php:82
+#, fuzzy
+msgid "Edit Ad Category"
+msgstr "Anzeigenkategorie bearbeiten"
+
+#: lib/class_wdca_custom_ad.php:83
+msgid "Search Ad Categories"
+msgstr "Inserat Kategorien durchsuchen"
+
+#: lib/class_wdca_custom_ad.php:84
+#, fuzzy
+msgid "Popular Ad Categories"
+msgstr "Beliebte Anzeigenkategorien"
+
+#: lib/class_wdca_custom_ad.php:85
+#, fuzzy
+msgid "All Ad Categories"
+msgstr "Alle Anzeigenkategorien"
+
+#: lib/class_wdca_custom_ad.php:86
+#, fuzzy
+msgid "Separate Ad Categories with commas"
+msgstr "Trennen Sie Anzeigenkategorien mit Kommas"
+
+#: lib/class_wdca_custom_ad.php:87
+#, fuzzy
+msgid "Add or remove Ad Categories"
+msgstr "Anzeigenkategorien hinzufügen oder entfernen"
+
+#: lib/class_wdca_custom_ad.php:88
+#, fuzzy
+msgid "Choose from most used Ad Categories"
+msgstr "Wähle aus den meistgenutzten Anzeigenkategorien"
+
+#: lib/class_wdca_custom_ad.php:113
+#, fuzzy
+msgid "Ad link"
+msgstr "Anzeigenlink"
+
+#: lib/class_wdca_custom_ad.php:121
+#, fuzzy
+msgid "Ad appearance"
+msgstr "Anzeigenauftritt"
+
+#: lib/class_wdca_custom_ad.php:132
+msgid "Link URL"
+msgstr "Link URL"
+
+#: lib/class_wdca_custom_ad.php:146
+#, fuzzy
+msgid "Do not show title"
+msgstr "Titel nicht anzeigen"
+
+#: lib/class_wdca_custom_ad.php:151
+#, fuzzy
+msgid "Do not show content"
+msgstr "Inhalt nicht anzeigen"
+
+#: lib/class_wdca_custom_ad.php:156
+#, fuzzy
+msgid "Do not show footer"
+msgstr "Fußzeile nicht anzeigen"
+
+#: lib/class_wdca_custom_ad.php:161
+#, fuzzy
+msgid "Strip default style"
+msgstr "Standardstil ausziehen"
+
+#: lib/forms/plugin_settings.php:9
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: psource/psource-plugin-update/Puc/v5p3/Plugin/Ui.php:56
+msgid "View details"
+msgstr "Details anzeigen"
+
+#: psource/psource-plugin-update/Puc/v5p3/Plugin/Ui.php:79
+#, php-format
+msgid "More information about %s"
+msgstr "Mehr Informationen über %s"
+
+#: psource/psource-plugin-update/Puc/v5p3/Plugin/Ui.php:130
+msgid "Check for updates"
+msgstr "Auf Aktualisierungen prüfen"
+
+#: psource/psource-plugin-update/Puc/v5p3/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "Das %s Plugin ist aktuell."
+
+#: psource/psource-plugin-update/Puc/v5p3/Plugin/Ui.php:219
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "Eine neue Version des Plugins %s ist verfügbar."
+
+#: psource/psource-plugin-update/Puc/v5p3/Plugin/Ui.php:221
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr "Konnte nicht prüfen, ob Updates für das Plugin %s verfügbar sind."
+
+#: psource/psource-plugin-update/Puc/v5p3/Plugin/Ui.php:227
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Unbekannter Status für Aktualisierungscheck \"%s\""
+
+#: psource/psource-plugin-update/Puc/v5p3/Vcs/PluginUpdateChecker.php:113
+msgid "There is no changelog available."
+msgstr "Es steht kein Änderungsprotokoll zur Verfügung."
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "PS BeitragsAds"
+msgstr "PS BeiträgeAds"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://cp-psource.github.io/ps-post-ads/"
+msgstr "https://cp-psource.github.io/ps-post-ads/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"Definiere benutzerdefinierte Werbeanzeigen für Beitragstypen und mehr, das "
+"einfachste Werkzeug um effektiv Werbeanzeigen zu schalten."
+msgstr ""
+"Definiere benutzerdefinierte Werbeanzeigen für Beitragstypen und mehr, das "
+"einfachste Werkzeug um effektiv Werbeanzeigen zu schalten."
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "PSOURCE"
+msgstr "PSOURCE"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://github.com/Power-Source"
+msgstr "https://github.com/Power-Source"
