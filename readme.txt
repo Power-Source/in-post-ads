@@ -14,8 +14,6 @@ Define custom ads for post types and more, the easiest tool to place ads effecti
 
 == Description ==
 
-= DEUTSCH =
-
 Mit PS-BeitragsADS werden Anzeigen dort geschaltet, wo Nutzer am meisten mit Deinen Inhalten beschäftigt sind.
 Besucher können blind für Banner- und Seitenleistenwerbung sein. Mit PS-BeitragsADS wird dieses Problem gelöst, 
 indem unauffällige Anzeigen in den Inhalt Deiner Webseite eingefügt werden.
@@ -25,22 +23,6 @@ Mit PS-BeitragsADS wird genau die richtige Menge Pop verwendet, ohne dass Deine 
 Beginne mit einem integrierten Stil oder erstelle einen benutzerdefinierten Look. 
 Biete angemeldeten Benutzern ein werbefreies Leseerlebnis und ermutige die Besucher, ein Upgrade durchzuführen.
 
-= ENGLISH =
-
-With PS-BeitragsADS, ads are placed where users are most engaged with your content.
-Visitors can be blind to banner and sidebar ads. With PS-BeitragsADS this problem is solved,
-by inserting unobtrusive ads into your website content.
-
-Ads that don't annoy
-With PS-PostsADS, just the right amount of pop is used without degrading your content.
-Start with a built-in style or create a custom look.
-Offer registered users an ad-free reading experience and encourage visitors to upgrade.
-
-
-[Projektseite](https://cp-psource.github.io/ps-post-ads/)
-[GitHub](https://github.com/Power-Source/ps-post-ads)
-
-[POWERED BY PSOURCE](https://github.com/Power-Source)
 
 == ChangeLog ==
 
